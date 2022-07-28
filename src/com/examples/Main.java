@@ -31,6 +31,7 @@ public class Main {
             return("eight");}
         else if (n==9){
             return("nine");}
+        
        else{
             return("zero");}
 
